@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">CalcuNow</string>
+    <string name="calc_prompt">Choose the equation you want solved</string>
+
+    <string-array name="equation_array">
+        <item>Point-Slope</item>
+        <item>Parabola</item>
+        <item>Circle</item>
+        <item>Ellipse</item>
+    </string-array>
+
+
+</resources>
